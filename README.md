@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/sueroku"
+  width="600"
+  height="300"
+/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/sueroku?pet-id=603557478038724291"
     width="900"
