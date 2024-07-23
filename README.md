@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/sueroku?pet-id=603557478038724291"
+    width="900"
+    height="150"
+  />
+</a>
+  
 
 <!--
 **sueroku/sueroku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
